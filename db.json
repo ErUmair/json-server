@@ -1,9 +1,9 @@
 {
   "auth": [
-    { "id": 1, "name": "umair", "email": "umair@gmail.com", "password": "123123"},
+    { "authId": 1, "name": "umair", "email": "umair@gmail.com", "password": "123123"},
   ],
   "addUsers": [
-   { "id": 1, "name": "Usama", "email": "usamabinjafar@gmail.com" },
+   { "userId": 1, "name": "Usama", "email": "usamabinjafar@gmail.com" },
   ],
   "profile": {
     "name": "Umair Ahmed"
